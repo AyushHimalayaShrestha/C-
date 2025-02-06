@@ -1,0 +1,14 @@
+D:\C# Revise\Tax\bin\Debug\net8.0\Tax.exe
+D:\C# Revise\Tax\bin\Debug\net8.0\Tax.deps.json
+D:\C# Revise\Tax\bin\Debug\net8.0\Tax.runtimeconfig.json
+D:\C# Revise\Tax\bin\Debug\net8.0\Tax.dll
+D:\C# Revise\Tax\bin\Debug\net8.0\Tax.pdb
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.AssemblyInfoInputs.cache
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.AssemblyInfo.cs
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.csproj.CoreCompileInputs.cache
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.dll
+D:\C# Revise\Tax\obj\Debug\net8.0\refint\Tax.dll
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.pdb
+D:\C# Revise\Tax\obj\Debug\net8.0\Tax.genruntimeconfig.cache
+D:\C# Revise\Tax\obj\Debug\net8.0\ref\Tax.dll

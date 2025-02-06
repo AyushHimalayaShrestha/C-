@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NestedConditionalStatement": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

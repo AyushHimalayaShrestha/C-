@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LeapYear": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

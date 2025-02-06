@@ -1,0 +1,14 @@
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.AssemblyInfoInputs.cache
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.AssemblyInfo.cs
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.csproj.CoreCompileInputs.cache
+D:\C# Revise\CalculatePercentageOfSubjects\bin\Debug\net8.0\CalculatePercentageOfSubjects.exe
+D:\C# Revise\CalculatePercentageOfSubjects\bin\Debug\net8.0\CalculatePercentageOfSubjects.deps.json
+D:\C# Revise\CalculatePercentageOfSubjects\bin\Debug\net8.0\CalculatePercentageOfSubjects.runtimeconfig.json
+D:\C# Revise\CalculatePercentageOfSubjects\bin\Debug\net8.0\CalculatePercentageOfSubjects.dll
+D:\C# Revise\CalculatePercentageOfSubjects\bin\Debug\net8.0\CalculatePercentageOfSubjects.pdb
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.dll
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\refint\CalculatePercentageOfSubjects.dll
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.pdb
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\CalculatePercentageOfSubjects.genruntimeconfig.cache
+D:\C# Revise\CalculatePercentageOfSubjects\obj\Debug\net8.0\ref\CalculatePercentageOfSubjects.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tocheckgreaternumber": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

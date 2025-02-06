@@ -1,0 +1,14 @@
+D:\C# Revise\Triangle_NestedLoop\bin\Debug\net8.0\Triangle_NestedLoop.exe
+D:\C# Revise\Triangle_NestedLoop\bin\Debug\net8.0\Triangle_NestedLoop.deps.json
+D:\C# Revise\Triangle_NestedLoop\bin\Debug\net8.0\Triangle_NestedLoop.runtimeconfig.json
+D:\C# Revise\Triangle_NestedLoop\bin\Debug\net8.0\Triangle_NestedLoop.dll
+D:\C# Revise\Triangle_NestedLoop\bin\Debug\net8.0\Triangle_NestedLoop.pdb
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.AssemblyInfoInputs.cache
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.AssemblyInfo.cs
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.csproj.CoreCompileInputs.cache
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.dll
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\refint\Triangle_NestedLoop.dll
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.pdb
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\Triangle_NestedLoop.genruntimeconfig.cache
+D:\C# Revise\Triangle_NestedLoop\obj\Debug\net8.0\ref\Triangle_NestedLoop.dll

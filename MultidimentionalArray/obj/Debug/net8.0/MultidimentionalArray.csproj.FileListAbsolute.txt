@@ -1,0 +1,14 @@
+D:\C# Revise\MultidimentionalArray\bin\Debug\net8.0\MultidimentionalArray.exe
+D:\C# Revise\MultidimentionalArray\bin\Debug\net8.0\MultidimentionalArray.deps.json
+D:\C# Revise\MultidimentionalArray\bin\Debug\net8.0\MultidimentionalArray.runtimeconfig.json
+D:\C# Revise\MultidimentionalArray\bin\Debug\net8.0\MultidimentionalArray.dll
+D:\C# Revise\MultidimentionalArray\bin\Debug\net8.0\MultidimentionalArray.pdb
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.AssemblyInfoInputs.cache
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.AssemblyInfo.cs
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.csproj.CoreCompileInputs.cache
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.dll
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\refint\MultidimentionalArray.dll
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.pdb
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\MultidimentionalArray.genruntimeconfig.cache
+D:\C# Revise\MultidimentionalArray\obj\Debug\net8.0\ref\MultidimentionalArray.dll

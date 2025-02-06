@@ -1,0 +1,14 @@
+D:\C# Revise\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.exe
+D:\C# Revise\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+D:\C# Revise\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+D:\C# Revise\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.dll
+D:\C# Revise\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.pdb
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.dll
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.pdb
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+D:\C# Revise\LeapYear\LeapYear\obj\Debug\net8.0\ref\LeapYear.dll

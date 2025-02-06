@@ -1,0 +1,14 @@
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\bin\Debug\net8.0\tocheckgreaternumber.exe
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\bin\Debug\net8.0\tocheckgreaternumber.deps.json
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\bin\Debug\net8.0\tocheckgreaternumber.runtimeconfig.json
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\bin\Debug\net8.0\tocheckgreaternumber.dll
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\bin\Debug\net8.0\tocheckgreaternumber.pdb
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.AssemblyInfoInputs.cache
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.AssemblyInfo.cs
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.csproj.CoreCompileInputs.cache
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.dll
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\refint\tocheckgreaternumber.dll
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.pdb
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\tocheckgreaternumber.genruntimeconfig.cache
+D:\C# Revise\tocheckgreaternumber\tocheckgreaternumber\obj\Debug\net8.0\ref\tocheckgreaternumber.dll

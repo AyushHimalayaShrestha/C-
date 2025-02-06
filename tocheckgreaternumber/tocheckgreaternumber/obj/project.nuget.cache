@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnVsJa9gjOM=",
+  "success": true,
+  "projectFilePath": "D:\\C# Revise\\tocheckgreaternumber\\tocheckgreaternumber\\tocheckgreaternumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

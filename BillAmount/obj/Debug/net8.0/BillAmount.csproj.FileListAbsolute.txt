@@ -1,0 +1,14 @@
+D:\C# Revise\BillAmount\bin\Debug\net8.0\BillAmount.exe
+D:\C# Revise\BillAmount\bin\Debug\net8.0\BillAmount.deps.json
+D:\C# Revise\BillAmount\bin\Debug\net8.0\BillAmount.runtimeconfig.json
+D:\C# Revise\BillAmount\bin\Debug\net8.0\BillAmount.dll
+D:\C# Revise\BillAmount\bin\Debug\net8.0\BillAmount.pdb
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.AssemblyInfoInputs.cache
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.AssemblyInfo.cs
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.csproj.CoreCompileInputs.cache
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.dll
+D:\C# Revise\BillAmount\obj\Debug\net8.0\refint\BillAmount.dll
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.pdb
+D:\C# Revise\BillAmount\obj\Debug\net8.0\BillAmount.genruntimeconfig.cache
+D:\C# Revise\BillAmount\obj\Debug\net8.0\ref\BillAmount.dll

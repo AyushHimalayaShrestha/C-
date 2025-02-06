@@ -1,0 +1,14 @@
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\bin\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.exe
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\bin\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.deps.json
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\bin\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.runtimeconfig.json
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\bin\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.dll
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\bin\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.pdb
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.AssemblyInfoInputs.cache
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.AssemblyInfo.cs
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.csproj.CoreCompileInputs.cache
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.dll
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\refint\Equilateral_Isosceles_Scalane_Triangle.dll
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.pdb
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\Equilateral_Isosceles_Scalane_Triangle.genruntimeconfig.cache
+D:\C# Revise\Equilateral_Isosceles_Scalane_Triangle\obj\Debug\net8.0\ref\Equilateral_Isosceles_Scalane_Triangle.dll

@@ -1,0 +1,14 @@
+D:\C# Revise\LoopPractice\bin\Debug\net8.0\LoopPractice.exe
+D:\C# Revise\LoopPractice\bin\Debug\net8.0\LoopPractice.deps.json
+D:\C# Revise\LoopPractice\bin\Debug\net8.0\LoopPractice.runtimeconfig.json
+D:\C# Revise\LoopPractice\bin\Debug\net8.0\LoopPractice.dll
+D:\C# Revise\LoopPractice\bin\Debug\net8.0\LoopPractice.pdb
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfoInputs.cache
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfo.cs
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.csproj.CoreCompileInputs.cache
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.dll
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\refint\LoopPractice.dll
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.pdb
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\LoopPractice.genruntimeconfig.cache
+D:\C# Revise\LoopPractice\obj\Debug\net8.0\ref\LoopPractice.dll
