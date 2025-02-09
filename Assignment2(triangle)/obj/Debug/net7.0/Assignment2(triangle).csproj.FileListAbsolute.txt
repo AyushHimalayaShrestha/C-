@@ -1,0 +1,15 @@
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/bin/Debug/net7.0/Assignment2(triangle)
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/bin/Debug/net7.0/Assignment2(triangle).deps.json
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/bin/Debug/net7.0/Assignment2(triangle).runtimeconfig.json
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/bin/Debug/net7.0/Assignment2(triangle).dll
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/bin/Debug/net7.0/Assignment2(triangle).pdb
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).csproj.AssemblyReference.cache
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).AssemblyInfoInputs.cache
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).AssemblyInfo.cs
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).csproj.CoreCompileInputs.cache
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).dll
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/refint/Assignment2(triangle).dll
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).pdb
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/Assignment2(triangle).genruntimeconfig.cache
+/Users/ayushshrestha/Desktop/c#/Assignment2(triangle)/Assignment2(triangle)/obj/Debug/net7.0/ref/Assignment2(triangle).dll
