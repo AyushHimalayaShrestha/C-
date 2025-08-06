@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Revise\\BillAmount\\BillAmount.csproj": {}
+    "D:\\C# Revise\\student grade\\student grade calculation\\student grade calculation.csproj": {}
   },
   "projects": {
-    "D:\\C# Revise\\BillAmount\\BillAmount.csproj": {
+    "D:\\C# Revise\\student grade\\student grade calculation\\student grade calculation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Revise\\BillAmount\\BillAmount.csproj",
-        "projectName": "BillAmount",
-        "projectPath": "D:\\C# Revise\\BillAmount\\BillAmount.csproj",
+        "projectUniqueName": "D:\\C# Revise\\student grade\\student grade calculation\\student grade calculation.csproj",
+        "projectName": "student grade calculation",
+        "projectPath": "D:\\C# Revise\\student grade\\student grade calculation\\student grade calculation.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Revise\\BillAmount\\obj\\",
+        "outputPath": "D:\\C# Revise\\student grade\\student grade calculation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

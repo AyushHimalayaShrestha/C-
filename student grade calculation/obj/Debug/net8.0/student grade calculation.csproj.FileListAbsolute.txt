@@ -1,0 +1,15 @@
+D:\C# Revise\student grade\student grade calculation\bin\Debug\net8.0\student grade calculation.exe
+D:\C# Revise\student grade\student grade calculation\bin\Debug\net8.0\student grade calculation.deps.json
+D:\C# Revise\student grade\student grade calculation\bin\Debug\net8.0\student grade calculation.runtimeconfig.json
+D:\C# Revise\student grade\student grade calculation\bin\Debug\net8.0\student grade calculation.dll
+D:\C# Revise\student grade\student grade calculation\bin\Debug\net8.0\student grade calculation.pdb
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.AssemblyInfoInputs.cache
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.AssemblyInfo.cs
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.csproj.CoreCompileInputs.cache
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.sourcelink.json
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.dll
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\refint\student grade calculation.dll
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.pdb
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\student grade calculation.genruntimeconfig.cache
+D:\C# Revise\student grade\student grade calculation\obj\Debug\net8.0\ref\student grade calculation.dll
